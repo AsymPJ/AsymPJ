@@ -7,7 +7,10 @@
 - 🔭 I’m currently working on become a better programmer as well as engineer.
 - 🌱 I’m currently learning React.js and Node.js.
 
-### Contact Info:
+<detail><summary>Contact Info: <summary>
+<p>
+  
+</p>
 
 
 
