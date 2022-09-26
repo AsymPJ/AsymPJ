@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-##I'm Pedro Javier
-#####Telecommunication and Electronic Engineer and a Passionate Jr. Web Developer.
+## I'm Pedro Javier
+
+##### Telecommunication and Electronic Engineer and a Passionate Jr. Web Developer.
 <!--
 **AsymPJ/AsymPJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
