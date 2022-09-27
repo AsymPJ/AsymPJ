@@ -10,7 +10,7 @@
 
 ### Contact Info:
 [<img src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png"/>](https://www.linkedin.com/in/pedro-javier-mu%C3%B1oz-garc%C3%ADa-386060246/)
-[![]()]()
+[![instagram-new](https://user-images.githubusercontent.com/100593496/192531084-6c7f3ac7-5d1e-4cfe-8487-c6b8026e9e1d.png)]()
 
 
 
