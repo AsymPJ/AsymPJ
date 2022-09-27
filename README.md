@@ -8,7 +8,9 @@
 - 🌱 I’m currently learning React.js and Node.js.
 
 ### Contact Info:
-![linkedin (2)](https://user-images.githubusercontent.com/100593496/192402220-159638d8-1f17-4ed4-af60-9d775e04d287.png)   ![instagram (1) (1)](https://user-images.githubusercontent.com/100593496/192402301-34e5ec92-0de8-4a78-b1fe-c3ea064603fd.png)  ![world (2)](https://user-images.githubusercontent.com/100593496/192402332-4dcf30f3-d9df-4d10-a314-b89f9817cadb.png)
+![(https://user-images.githubusercontent.com/100593496/192404195-db32f487-9d88-48d6-b68f-700adffc3762.png](https://user-images.githubusercontent.com/100593496/192404195-db32f487-9d88-48d6-b68f-700adffc3762.png)
+![https://user-images.githubusercontent.com/100593496/192404203-1cb73bc2-38e8-4f99-8644-05c04f12243a.png](https://user-images.githubusercontent.com/100593496/192404203-1cb73bc2-38e8-4f99-8644-05c04f12243a.png)
+![https://user-images.githubusercontent.com/100593496/192404186-73ef7595-760e-4f7d-9a8c-901ef77b533c.png](https://user-images.githubusercontent.com/100593496/192404186-73ef7595-760e-4f7d-9a8c-901ef77b533c.png)
 
 
 
