@@ -4,8 +4,8 @@
 
 #### Telecommunication and Electronic Engineer :computer: , CCNA certified :iphone: and a self-taught Jr. Web Developer.
 
-- 🔭 I’m currently working on become a better programmer as well as engineer.
-- 🌱 I’m currently learning React.js, Node.js and Swift.
+- 🔭 I’m currently working on my professional growth.
+- 🌱 I’m currently preparing to crush DevNet Associate Certification.
 -  My favorites hobbies are swimming :swimmer:, learn :book: and listen to music :headphones:.
 
 ### Contact Info:
