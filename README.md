@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my professional growth.
 - 🌱 I’m currently preparing to crush AWS Developer Associate Certification.
--  Working on Terraform and AWS SDK>
+-  Working on Terraform and AWS SDK.
 
 ### Contact Info & Badges:
 [<img src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png"/>](https://www.linkedin.com/in/pedro-javier-mu%C3%B1oz-garc%C3%ADa-386060246/)
